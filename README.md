@@ -69,7 +69,7 @@ sudo ufw status
 ```
 
 ## Config dosyası düzenleme: 
- * IP_ADDRESS  yerine vps ipnizi girin CTRL+X Y kaydedin
+ * IP_ADDRESS  yerine vps ipnizi girin 
  * Hepsini kopyalaypp tek seferde girin
  
 ```
