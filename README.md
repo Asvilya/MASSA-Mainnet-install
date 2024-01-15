@@ -149,7 +149,11 @@ buy_rolls XXXXXXXXXXXXXXXXXXXXXXXXX 10 0
 ```
 sell_rolls XXXXXXXXXXXXXXXXXXXXXXXXX 10 0
 ```
-## Kontrol:
+## Node Kontrol:
 ```
 get_addresses XXXXXXXXXXXXXXXXXXXXXXXXX
+```
+## Cüzdan Kontrol:
+```
+wallet_info
 ```
